@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <img src="https://images.prismic.io/www-static/e6c04b47-bd9d-474a-9d25-ab143f47349e_Hacktoberfest2020.png?auto=compress,format" width=660>
-  <h3 align="center"> :rocket: Let's nail Hacktoberfest this time :rocket: </h3>
+  <h3 align="center"> :rocket: Let's nail Hacktoberfest 2020 the right way :rocket: </h3>
 
   <p align="center">
     Your one-stop place for diving into the world of Open Source Dev by learning and making "legit" open source contributions with ease and most importantly, fun!<br>
@@ -128,7 +128,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Checkout the issues [here](https://github.com/yashvardhan-kukreja/nail-hacktoberfest/issues)
 
-For getting a detailed explanation and guide to contributing to this repo (or esentially any repo) the right way in under 5-10 minutes, please refer to [CONTRIBUTING.md](https://github.com/yashvardhan-kukreja/nail-hacktoberfest/blob/master/CONTRIBUTING.md)
+For getting a detailed explanation and guide to contributing to this repo (or essentially any repo) the right way in under 5-10 minutes, please refer to [CONTRIBUTING.md](https://github.com/yashvardhan-kukreja/nail-hacktoberfest/blob/master/CONTRIBUTING.md)
 
 
 <!-- LICENSE -->
@@ -144,6 +144,8 @@ Distributed under the MIT License. See [LICENSE](https://github.com/yashvardhan-
 Yashvardhan Kukreja 
 * [My website](https://www.yashkukreja.com/)
 * Twitter - [@yashkukreja98](https://twitter.com/yashkukreja)
+* Github - [yashvardhan-kukreja](https://github.com/yashvardhan-kukreja)
+* Medium - [yash.kukreja.98](http://medium.com/@yash.kukreja.98)
 * LinkedIn - [yashvardhan-kukreja](https://www.linkedin.com/in/yashvardhan-kukreja/)
 
 
