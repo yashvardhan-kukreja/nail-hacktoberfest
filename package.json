@@ -1,0 +1,22 @@
+{
+  "name": "nail-hacktoberfest",
+  "version": "0.0.1",
+  "description": "A repository to which you can easily contribute and start your 'open source' journey and well, nail hacktoberfest!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hacktoberfest",
+    "git",
+    "github",
+    "open source",
+    "javascript",
+    "nodejs"
+  ],
+  "bin": {
+    "nail-hacktober": "./bin/index.js"
+  },
+  "author": "Yashvardhan Kukreja",
+  "license": "MIT"
+}
