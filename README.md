@@ -1,10 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://images.prismic.io/www-static/e6c04b47-bd9d-474a-9d25-ab143f47349e_Hacktoberfest2020.png?auto=compress,format">
-    <img src="images/logo.png" alt="Logo">
-  </a>
-
+  <img src="https://images.prismic.io/www-static/e6c04b47-bd9d-474a-9d25-ab143f47349e_Hacktoberfest2020.png?auto=compress,format" width=660>
   <h3 align="center"> :rocket: Let's nail Hacktoberfest this time :rocket: </h3>
 
   <p align="center">
@@ -40,9 +37,7 @@
 ## Motivation behind this project
 
 <p align="center">
-  <a href="images/hacktoberfest_20_logo.jpg">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+<img src="https://hacktoberfestswaglist.com/img/Hacktoberfest_20.jpg" alt="Logo" width="150" height="150">
 </p>
 
 Hacktoberfest 2020 has begun. And well, we all want T-shirts and stickers all the way from Github. But well, this time let's "actually" make some kickass PRs, learn truly about the titbits of open source dev.<br>
@@ -55,6 +50,8 @@ Let me say two things:
 - Once you get even 1 single PR merged in this repository, you would already be versed with some nice open source practices.
 
 Now, jump to the next section to know about this project and realise how easy it is (and even to contribute to it).
+
+If you like this idea and project, then do :star2: this repo. Will make me really happy :P
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -129,8 +126,9 @@ nail-hacktoberfest
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.<br>
 
-For getting a detailed explanation and guide to contributing to this repo (or esentially any repo) the right way in under 5-10 minutes, please refer to [CONTRIBUTING.md](https://github.com/yashvardhan-kukreja/nail-hacktoberfest/blob/master/CONTRIBUTING.md))
+Checkout the issues [here](https://github.com/yashvardhan-kukreja/nail-hacktoberfest/issues)
 
+For getting a detailed explanation and guide to contributing to this repo (or esentially any repo) the right way in under 5-10 minutes, please refer to [CONTRIBUTING.md](https://github.com/yashvardhan-kukreja/nail-hacktoberfest/blob/master/CONTRIBUTING.md)
 
 
 <!-- LICENSE -->
@@ -143,8 +141,10 @@ Distributed under the MIT License. See [LICENSE](https://github.com/yashvardhan-
 <!-- CONTACT -->
 ## Contact
 
-Yashvardhan Kukreja - [@yashkukreja98](https://twitter.com/yashkukreja)
-
+Yashvardhan Kukreja 
+* [My website](https://www.yashkukreja.com/)
+* Twitter - [@yashkukreja98](https://twitter.com/yashkukreja)
+* LinkedIn - [yashvardhan-kukreja](https://www.linkedin.com/in/yashvardhan-kukreja/)
 
 
 <!-- ACKNOWLEDGEMENTS -->
