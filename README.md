@@ -94,7 +94,7 @@ sudo apt-get install node -y
 
 1. Clone this repo
 ```sh
-git clone git@github.com:yashvardhan-kukreja/nail-hacktoberfest.git
+git clone https://github.com/yashvardhan-kukreja/nail-hacktoberfest.git
 ```
 2. Hope into the project directory
 ```sh
