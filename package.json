@@ -4,7 +4,7 @@
   "description": "A repository to which you can easily contribute and start your 'open source' journey and well, nail hacktoberfest!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [
     "hacktoberfest",
@@ -18,5 +18,8 @@
     "nail-hacktober": "./bin/index.js"
   },
   "author": "Yashvardhan Kukreja",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
 }
