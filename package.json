@@ -4,6 +4,8 @@
   "description": "A repository to which you can easily contribute and start your 'open source' journey and well, nail hacktoberfest!",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint src --ext=js",
+    "lint:fix": "npm run lint -- --fix",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -18,5 +20,22 @@
     "nail-hacktober": "./bin/index.js"
   },
   "author": "Yashvardhan Kukreja",
-  "license": "MIT"
+  "license": "MIT",
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.js": [
+      "npm run lint:fix"
+    ]
+  },
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "husky": "^4.3.0",
+    "lint-staged": "^10.4.0"
+  }
 }
