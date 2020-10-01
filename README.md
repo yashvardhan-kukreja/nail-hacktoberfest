@@ -93,9 +93,14 @@ sudo apt-get install node -y
 ### Project Setup
 
 1. Clone this repo
-```sh
-git clone https://github.com/yashvardhan-kukreja/nail-hacktoberfest.git
-```
+   * With HTTPS
+   ```sh
+   git clone https://github.com/yashvardhan-kukreja/nail-hacktoberfest.git
+   ```
+   * With SSH (just use HTTPS if you aren't sure what SSH is)
+   ```sh
+   git clone git@github.com:yashvardhan-kukreja/nail-hacktoberfest.git
+   ```
 2. Hope into the project directory
 ```sh
 cd nail-hacktoberfest
