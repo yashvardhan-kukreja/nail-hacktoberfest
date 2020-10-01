@@ -18,4 +18,8 @@ module.exports.fun_facts = [
     fact: "Computers understand nothing but 1's and 0's. The code you write gets compiled and translated into those 1's and 0's so that the computer can understand it.",
     author: '',
   },
+  {
+    fact: "Did you know that cloud computing doesn't actually happen in the cloud? That's right! It is an often misunderstood concept till date. Cloud computing is generally used to describe distributed data centers available to many users over the Internet based on demand!",
+    author: '',
+  }
 ];
