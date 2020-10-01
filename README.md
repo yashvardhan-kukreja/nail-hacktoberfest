@@ -110,7 +110,7 @@ sudo npm install -g .
 ```
 5. Run it :rocket:
 ```sh
-nail-hacktoberfest
+nail-hacktober
 ```
 
 
