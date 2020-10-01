@@ -1,8 +1,7 @@
-const {fun_facts} = require("../src/utils/fun_facts");
-
+const { funFacts } = require('./utils/fun_facts');
 
 module.exports = () => {
-    idx = Math.floor(Math.random()*fun_facts.length);
+  const idx = Math.floor(Math.random() * funFacts.length);
 
-    console.log(`"${fun_facts[idx]["fact"]}" ${fun_facts[idx]["author"] != "" ? "-"+fun_facts[idx]["author"] : "" }`);
-}
+  console.log(`"${funFacts[idx].fact}" ${funFacts[idx].author !== '' ? `-${funFacts[idx].author}` : ''}`);
+};
