@@ -113,6 +113,27 @@ sudo npm install -g .
 nail-hacktober
 ```
 
+### Docker Setup
+
+This project can also be setup using Docker.  Docker can be installed on a variety of platforms [here](https://docs.docker.com/engine/install/)
+
+1. Clone this repo
+```sh
+git clone https://github.com/yashvardhan-kukreja/nail-hacktoberfest.git
+```
+2. Hop into the project directory
+```sh
+cd nail-hacktoberfest
+```
+3. Build the Docker image
+```sh
+docker build -t <username>/nail-hacktoberfest .
+```
+4. Run using Docker
+```sh
+docker run <username>/nail-hacktoberfest
+```
+
 
 
 <!-- USAGE EXAMPLES -->
