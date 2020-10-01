@@ -17,5 +17,9 @@ module.exports.fun_facts = [
     {
         "fact": "Computers understand nothing but 1's and 0's. The code you write gets compiled and translated into those 1's and 0's so that the computer can understand it.",
         "author": ""
+    },
+    {
+        "fact": "The first computer virus was created in 1963."
+        "author: ""
     }
 ]
