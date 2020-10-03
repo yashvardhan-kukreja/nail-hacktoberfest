@@ -5,7 +5,7 @@
  *    "quote": "author, if exists. Else feel free to leave this blank too :P"
  * }
  */
-module.exports.fun_facts = [
+module.exports.funFacts = [
   {
     fact: 'There are a finite combinations of IP addresses possible.\nIf we denote each possible IP address with a grain of sand, then the ultimate possible combinations of IPv4 addresses would be able to fill a truck.\n Annndd the ultimate possible combinations of IPv6 addresses would be able to fill the entire sun!',
     author: '',
