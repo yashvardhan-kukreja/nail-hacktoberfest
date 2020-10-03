@@ -19,11 +19,15 @@ module.exports.fun_facts = [
         "author": ""
     },
     {
-        "fact": "The first computer virus was created in 1963."
+        "fact": "The first computer virus was created in 1963.",
         "author: ""
     },
     {
-      fact: "Did you know that cloud computing doesn't actually happen in the clouds? That's right! It is an often misunderstood concept till date. Cloud computing is generally used to describe distributed data centers available to many users over the Internet based on demand!",
-      author: '',
+      "fact" : "Did you know that cloud computing doesn't actually happen in the clouds? That's right! It is an often misunderstood concept till date. Cloud computing is generally used to describe distributed data centers available to many users over the Internet based on demand!",
+      "author" : ""
+    },
+    {
+      "fact" : "00110100 00110010 00100000 01101001 01110011 00100000 01110100 01101000 01100101 00100000 01100001 01101110 01110011 01110111 01100101 01110010 00100000 01110100 01101111 00100000 01101100 01101001 01100110 01100101 00101110",
+      "author" : "01000100 01101111 01110101 01100111 01101100 01100001 01110011 00100000 01000001 01100100 01100001 01101101 01110011"
     }
 ]
