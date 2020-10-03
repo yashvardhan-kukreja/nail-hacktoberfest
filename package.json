@@ -4,9 +4,9 @@
   "description": "A repository to which you can easily contribute and start your 'open source' journey and well, nail hacktoberfest!",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
     "lint": "eslint src --ext=js",
-    "lint:fix": "npm run lint -- --fix"
+    "lint:fix": "npm run lint -- --fix",
+    "test": "jest"
   },
   "keywords": [
     "hacktoberfest",
@@ -38,5 +38,8 @@
     "husky": "^4.3.0",
     "lint-staged": "^10.4.0",
     "jest": "^26.4.2"
-  }
+  },
+  "eslintIgnore": [
+    "*.test.js"
+  ]
 }
