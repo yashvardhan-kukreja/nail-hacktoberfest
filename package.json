@@ -6,7 +6,7 @@
   "scripts": {
     "lint": "eslint src --ext=js",
     "lint:fix": "npm run lint -- --fix",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [
     "hacktoberfest",
@@ -36,6 +36,10 @@
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-plugin-import": "^2.22.1",
     "husky": "^4.3.0",
-    "lint-staged": "^10.4.0"
-  }
+    "lint-staged": "^10.4.0",
+    "jest": "^26.4.2"
+  },
+  "eslintIgnore": [
+    "*.test.js"
+  ]
 }
